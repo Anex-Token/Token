@@ -1,5 +1,6 @@
 # Anex
-*[Web Site]* (https://www.google.com)
+[*Web Site*](https://anex.live/)
+
 AnEx is based on ERC 20
 
 AnEx is created to provide transfers between electronic wallets
